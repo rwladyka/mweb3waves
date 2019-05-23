@@ -1,1 +1,1 @@
-import './src/components/app';
+import 'components/app';
