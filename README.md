@@ -1,2 +1,3 @@
 # mweb3waves
-Mastering Web3 with Waves
+
+dApps to Mastering Web3 with Waves course. 
